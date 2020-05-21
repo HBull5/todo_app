@@ -8,8 +8,9 @@
 #### Steps to get the app running
 1. Start up your local Database.
 2. Run the sql file located in the 'sql_scripts' folder to import sample database.
-3. Open terminal and use command 'npm run dev' you should see to messages in the console 'Server running on 5000...' & 'DB connected...'
-4. Open index.html in your browser make sure that CORS changer extension is set to "ON" reload page if necessary.
+3. Configure your database settings in index.js lines 7 - 10.
+4. Open terminal and use command 'node index.js' you should see to messages in the console 'Server running on 5000...' & 'DB connected...'
+5. Open index.html in your browser make sure that CORS changer extension is set to "ON" reload page if necessary.
 
 # Homework will probably look something like this...
 1. Build CRUD API using postman to verify output
