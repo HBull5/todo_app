@@ -12,6 +12,6 @@
 4. Open index.html in your browser make sure that CORS changer extension is set to "ON" reload page if necessary.
 
 # Homework will probably look something like this...
-1. Build CRUD API using postman 
+1. Build CRUD API using postman to verify output
 2. Create Front End
 3. Use AJAX to connect to the front to the back
