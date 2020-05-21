@@ -14,4 +14,4 @@
 # Homework will probably look something like this...
 1. Build CRUD API using postman to verify output
 2. Create Front End
-3. Use AJAX to connect to the front to the back
+3. Use AJAX to connect the front to the back
